@@ -1,0 +1,10 @@
+{
+  "framework-esp8266-nonos-sdk": [
+    {
+      "sha1": "3de419878edbe4959e693717198572c988db5428",
+      "system": "*",
+      "url": "https://github.com/sanderv32/framework-esp8266-nonos-sdk/raw/master/ESP8266_NONOS_SDK-2.1.0.tar.gz",
+      "version": "2.1.0"
+    }
+  ]
+}
